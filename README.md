@@ -3,7 +3,14 @@
 This repository contains models (or links to them) and convenience functions to build face detection and recognition systems as well as few Jupyter Notebooks with usage examples.
 
 Every face recognition system can be devided into two parts - face detection and face recognition. For face detection here in this solution are two options - multitask cascaded convolutional network (MTCNN) or histogram of oriented gradients (HOG).
-Face recognition part is based on face embeddings created with FaceNet. These 128D vectors can then be easely compared by calculating euclidean distance or used to train classification model.
+Face recognition part is based on face embeddings created with FaceNet. These 128D vectors can then be easely compared by calculating euclidean distance or used to train classification model.  
+
+fr_utils.py - library of all necessary functions, which can be imported as module. 
+face_detection.ipynb - Jupyter Notebook with face detection functions and usage examples.  
+face_recognition.ipynb - Jupyter Notebook with face recognition functions and usage examples.  
+Examples folder contains one sample image to work with.
+
+Please intstall prerequisites and download (into root folder) pretrained FaceNet model before using project files.
 
 ## Prerequisites
 
