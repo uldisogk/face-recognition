@@ -44,6 +44,7 @@ Please intstall prerequisites and download (into root folder) pretrained FaceNet
 [Wider Face](http://shuoyang1213.me/WIDERFACE/)  
 [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)  
 [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
+[Convolutional Neural Networks Course by Andrew Ng on Coursera](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 
 ## Research papers
 [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)  
