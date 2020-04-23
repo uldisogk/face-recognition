@@ -40,6 +40,7 @@ Please intstall prerequisites and download (into root folder) pretrained FaceNet
 [Dlib](http://dlib.net/)  
 [PyImageSearch - Face Applications](https://www.pyimagesearch.com/category/faces/)  
 [Face detection - OpenCV, Dlib and Deep Learning](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/)  
+[Machinelearningmastery article on face recognition](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/)
 [MegaFace](http://megaface.cs.washington.edu/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=78452820&_hsenc=p2ANqtz-_YyjDQURXiBDLYh-6uusHXMakpWIBUDl8IglSlh7h3fDC0tXZvwta3g63z0AZYmRLQmR_95YdFL6UP6Z0yLf2X10zHlA&_hsmi=78452820)  
 [Wider Face](http://shuoyang1213.me/WIDERFACE/)  
 [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)  
